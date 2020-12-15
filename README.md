@@ -4,7 +4,7 @@
 ## git 명령어
 
 ```
-git init
+git init => 저장소 생성
 git status
 git add filename
 git commit -m "text"
@@ -14,6 +14,8 @@ git branch branchname
 git checkout branchname
 git merge branchname
 git push (origin) (main)
+
+git remote add origin (repository link)
 
 ```
 
