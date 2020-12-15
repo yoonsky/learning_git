@@ -14,6 +14,8 @@ git branch branchname => 브랜치 생성
 git checkout branchname => 해당 브랜치로 이동
 git merge branchname => 브랜치 병합 (해당 브랜치 위치에서 병합할 브랜치명 작성)
 git push (origin) (main) => 연결된 git origin으로 (main or master 헤드) 푸시
+git log => log확인
+git log --graph --all --decorate =>log확인시 같이 적용하면 좋은 옵션들
 
 ```
 
