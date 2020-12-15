@@ -1,7 +1,7 @@
 # learning_git
 깃허브 공부하기
 
-# git 명령어
+## git 명령어
 
 ```
 git init
