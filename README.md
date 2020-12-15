@@ -15,8 +15,7 @@ git checkout branchname => 해당 브랜치로 이동
 git merge branchname => 브랜치 병합 (해당 브랜치 위치에서 병합할 브랜치명 작성)
 git push (origin) (main) => 연결된 git origin으로 (main or master 헤드) 푸시
 
-git remote add origin (repository link) => 생성한 vscode 파일에 저장소 연결하기
-
 ```
 
+📌 git remote add origin (repository link) => 생성한 vscode 파일에 저장소 연결하기
 📌 .gitignore => 커밋하지 않을 파일들 작성하기
