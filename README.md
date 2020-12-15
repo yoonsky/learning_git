@@ -19,4 +19,4 @@ git remote add origin (repository link) => 생성한 vscode 파일에 저장소 
 
 ```
 
-  📌 .gitignore
+  📌 .gitignore => 커밋하지 않을 파일들 
