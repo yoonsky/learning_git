@@ -14,4 +14,7 @@ git branch branchname
 git checkout branchname
 git merge branchname
 git push (origin) (main)
+
 ```
+
+  📌 .gitignore
