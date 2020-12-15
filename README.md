@@ -22,3 +22,5 @@ git log --graph --all --decorate => log확인시 같이 적용하면 좋은 옵�
 📌 git remote add origin (repository link) => 생성한 vscode 파일에 저장소 연결하기
 
 📌 .gitignore => 커밋하지 않을 파일들 작성하기
+
+📌 .gitignore를 작성하고 스테이지에 add 할 경우 git add. 사용
