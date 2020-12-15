@@ -18,4 +18,5 @@ git push (origin) (main) => 연결된 git origin으로 (main or master 헤드) �
 ```
 
 📌 git remote add origin (repository link) => 생성한 vscode 파일에 저장소 연결하기
+
 📌 .gitignore => 커밋하지 않을 파일들 작성하기
