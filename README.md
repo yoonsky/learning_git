@@ -24,3 +24,5 @@ git log --graph --all --decorate => log확인시 같이 적용하면 좋은 옵�
 📌 .gitignore => 커밋하지 않을 파일들 작성하기
 
 📌 .gitignore를 작성하고 스테이지에 add 할 경우 git add. 사용
+
+"메인 작업 완료 후 서브 브랜치 생성하고 커밋, 푸시 이후 merge로 병합."
